@@ -16,3 +16,4 @@ for (num= num1 ; num <= num2; num++){
 }
 
 3 a 8 em andamento....
+
